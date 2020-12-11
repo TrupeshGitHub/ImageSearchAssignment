@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Search Assignment</string>
+    <string name="search_image">Search Image</string>
+    <string name="no_data_found">No images found</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="add_comment_error">Comment cannot be empty</string>
+    <string name="no_comments_available">Comments not available</string>
+</resources>
